@@ -1,0 +1,9 @@
+* cl-transit
+
+Transit format for Common Lisp
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/jsulmont/cl-transit.git |
+| commit  | c347d8f
+| systems | cl-transit                                     |
+|---------+------------------------------------------------|
