@@ -4,6 +4,6 @@ Transit format for Common Lisp
 
 |---------+------------------------------------------------|
 | source  | git:https://github.com/jsulmont/cl-transit.git |
-| commit  | 412fe54                                        |
+| commit  | e1db835                                        |
 | systems | cl-transit                                     |
 |---------+------------------------------------------------|
